@@ -1,6 +1,6 @@
 Hey there,
 
-I've developed this webpage using React with typescript and tailwind css. I've avoided using big state management libraries as a middleware between the view and the data layer. That was mainly because the business logic revolving around this webpage is not that complicated. I am looking forward to discussing my decision making process, cheers. 
+I've developed this webpage using React with TypeScript and Tailwind CSS, and I deliberately chose not to use big state management libraries like redux. The decision was based on the relative simplicity of the business logic, making such libraries unnecessary. By keeping things lightweight, I aimed for a more maintainable codebase and improved performance. As this application grows, I can reassess the state management approach to meet future requirements. Overall, it was a thoughtful development process. 
 
 <img width="1336" alt="Screen Shot 2023-07-25 at 1 17 48 am" src="https://github.com/RanaShahim/swipe-jobs-interview/assets/66561075/2503c409-49af-496a-ba24-0c7facab065c">
 
